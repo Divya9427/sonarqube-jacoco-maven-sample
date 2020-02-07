@@ -100,7 +100,7 @@
       //-DmaximumMethodCoverage: '70',
       //-DrunAlways: true
                changeBuildStatus: true,
-    minimumInstructionCoverage: '0', maximumInstructionCoverage: '100', minimumMethodCoverage: '0', maximumMethodCoverage: '100'
+    minimumInstructionCoverage: '20', maximumInstructionCoverage: '80', minimumMethodCoverage: '20', maximumMethodCoverage: '80'
            )
         }
    } 
