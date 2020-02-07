@@ -1,25 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Divya9427 
-Divya9427
-/
-agoncal-application-petstore-ee6
-forked from agoncal/agoncal-application-petstore-ee6
-0
-0164
- Code Pull requests 1 Actions Projects 0 Wiki Security Insights Settings
-agoncal-application-petstore-ee6/Jenkinsfile
-@Divya9427 Divya9427 Update Jenkinsfile
-04923bc 5 minutes ago
-108 lines (99 sloc)  3.59 KB
-  
-pipeline {
+ pipeline {
     agent any
     
     
